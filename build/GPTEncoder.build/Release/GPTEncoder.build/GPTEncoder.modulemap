@@ -1,0 +1,4 @@
+module GPTEncoder {
+header "GPTEncoder-Swift.h"
+export *
+}

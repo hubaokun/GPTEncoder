@@ -1,0 +1,40 @@
+{
+  "" : {
+    "const-values" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder-master.swiftconstvalues",
+    "dependencies" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder-master.d",
+    "diagnostics" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder-master.dia",
+    "emit-module-dependencies" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder-master.swiftdeps"
+  },
+  "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "index-unit-output-path" : "/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/resource_bundle_accessor.o"
+  },
+  "/Volumes/data/lws/GitHub/GPTEncoder/Sources/GPTEncoder/Atomic.swift" : {
+    "index-unit-output-path" : "/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Atomic.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Atomic.bc",
+    "object" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Atomic.o"
+  },
+  "/Volumes/data/lws/GitHub/GPTEncoder/Sources/GPTEncoder/Extensions.swift" : {
+    "index-unit-output-path" : "/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Extensions.o"
+  },
+  "/Volumes/data/lws/GitHub/GPTEncoder/Sources/GPTEncoder/GPTEncoder.swift" : {
+    "index-unit-output-path" : "/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder.bc",
+    "object" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoder.o"
+  },
+  "/Volumes/data/lws/GitHub/GPTEncoder/Sources/GPTEncoder/GPTEncoderResources.swift" : {
+    "index-unit-output-path" : "/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoderResources.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoderResources.bc",
+    "object" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/GPTEncoderResources.o"
+  },
+  "/Volumes/data/lws/GitHub/GPTEncoder/Sources/GPTEncoder/Helper.swift" : {
+    "index-unit-output-path" : "/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Helper.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Helper.bc",
+    "object" : "/Volumes/data/lws/GitHub/GPTEncoder/build/GPTEncoder.build/Release/GPTEncoder.build/Objects-normal/arm64/Helper.o"
+  }
+}
